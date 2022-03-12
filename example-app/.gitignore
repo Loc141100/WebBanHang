@@ -1,5 +1,4 @@
 /node_modules
-/public/blog
 /public/hot
 /public/storage
 /storage/*.key
@@ -12,10 +11,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.vs
 /.idea
 /.vscode
-/public/blog/
-/public/blog.bak/
-*.swp
-notes.txt
